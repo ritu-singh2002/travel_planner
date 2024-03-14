@@ -1,0 +1,4 @@
+
+public enum roomType {
+	SINGLE, DOUBLE, TRIPLE, QUAD, QUEEN, KING, TWIN, DELUXE, SUPERDELUXE
+}
